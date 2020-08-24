@@ -1,5 +1,5 @@
 ---
-- hosts: Ubuntu_Servers
+- hosts: ubuntu_servers
   become: true
   become_user: root
   tasks:
